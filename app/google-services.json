@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508518979512",
+    "project_id": "tareafinal-50cf2",
+    "storage_bucket": "tareafinal-50cf2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508518979512:android:79e4d9e096982da300214d",
+        "android_client_info": {
+          "package_name": "com.example.trabajofinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDulhBo8NMc9yK2oIMAUPV_CSck7ZY3VD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
